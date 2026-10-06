@@ -1,0 +1,17 @@
+{
+  "name": "isbn-check-digit-validator",
+  "version": "0.1.0",
+  "description": "Validates and computes check digits for ISBN-10 and ISBN-13 identifiers.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {}
+}
